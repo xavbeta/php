@@ -5,7 +5,7 @@ class HelloWorld
     /**
      * @var PDO
      */
-    private $pdo; /*<-- bello!*/
+    private $pdo; /*<-- medio!*/
 
     public function __construct(PDO $pdo)
     {
